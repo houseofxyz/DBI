@@ -1,0 +1,256 @@
+## Memory tracing for PID = 6656 started
+### Started tracing after 'unnamedImageEntryPoint()' call
+[*] RtlAllocateHeap(32)		= 0x4d9098
+[*] RtlAllocateHeap(564)		= 0x2050590
+[*] RtlAllocateHeap(520)		= 0x4dcb18
+[*] RtlAllocateHeap(1024)		= 0x4dd240
+[*] RtlAllocateHeap(532)		= 0x20507d0
+[*] RtlAllocateHeap(1152)		= 0x20509f0
+[*] RtlAllocateHeap(3608)		= 0x4dd648
+[*] RtlAllocateHeap(1804)		= 0x2050e78
+[*] RtlFreeHeap(0x4dd648)
+[*] RtlAllocateHeap(128)[*] RtlAllocateHeap(32)		= 0x4d90c0
+[*] RtlAllocateHeap(32)		= 0x4d90e8
+[*] RtlAllocateHeap(128)[*] RtlAllocateHeap(32)		= 0x4d9110
+[*] RtlAllocateHeap(32)		= 0x4d9138
+[*] RtlAllocateHeap(32)		= 0x4d9160
+[*] RtlAllocateHeap(32)		= 0x4d9188
+[*] RtlAllocateHeap(32)		= 0x4d91b0
+[*] RtlAllocateHeap(16)		= 0x4dd068
+[*] RtlAllocateHeap(32)		= 0x4d91d8
+[*] RtlAllocateHeap(32)		= 0x4d9200
+[*] RtlAllocateHeap(2344)		= 0x4dd6d0
+[*] RtlAllocateHeap(32)		= 0x4d9228
+[*] RtlAllocateHeap(32)		= 0x4d9250
+[*] RtlAllocateHeap(32)		= 0x4d9278
+[*] RtlAllocateHeap(32)[*] RtlAllocateHeap(2040)		= 0x4de000
+		= 0x4de018
+[*] RtlAllocateHeap(32)		= 0x4de040
+[*] RtlAllocateHeap(32)		= 0x4de068
+[*] RtlAllocateHeap(32)		= 0x4de090
+[*] RtlAllocateHeap(32)		= 0x4de0b8
+[*] RtlAllocateHeap(32)		= 0x4de0e0
+[*] RtlAllocateHeap(32)		= 0x4de108
+[*] RtlAllocateHeap(32)		= 0x4de130
+[*] RtlAllocateHeap(32)		= 0x4de158
+[*] RtlAllocateHeap(32)		= 0x4de180
+[*] RtlAllocateHeap(32)		= 0x4de1a8
+[*] RtlAllocateHeap(32)		= 0x4de4c8
+		= 0x3a
+		= 0xc0150008
+[*] RtlAllocateHeap(128)		= 0x2051120
+[*] RtlHeapfree(0x2051120) from RtlHeapRealloc()
+[*] RtlHeapReAlloc(256)		= 0x2051120
+[*] RtlAllocateHeap(22)		= 0x4e1970
+[*] RtlFreeHeap(0x4e1970)
+[*] RtlAllocateHeap(88)[*] RtlAllocateHeap(208)		= 0x4e19d0
+[*] RtlAllocateHeap(32)		= 0x4e11c0
+[*] RtlAllocateHeap(32)		= 0x4e11e8
+[*] RtlAllocateHeap(24)		= 0x4e1aa8
+[*] RtlAllocateHeap(24)		= 0x4e1ac8
+[*] RtlAllocateHeap(24)		= 0x4e1ae8
+[*] RtlAllocateHeap(32)		= 0x4e1210
+[*] RtlAllocateHeap(184)		= 0x4e1b08
+[*] RtlAllocateHeap(32)		= 0x4e1238
+[*] RtlAllocateHeap(68)		= 0x4e1bc8
+[*] RtlAllocateHeap(32)		= 0x4e1260
+[*] RtlAllocateHeap(184)		= 0x4e1c18
+[*] RtlAllocateHeap(32)		= 0x4e1288
+[*] RtlAllocateHeap(68)		= 0x4e1cd8
+[*] RtlAllocateHeap(32)		= 0x4e12b0
+[*] RtlAllocateHeap(104)		= 0x4e1d28
+[*] RtlAllocateHeap(32)		= 0x4e12d8
+[*] RtlAllocateHeap(68)		= 0x4e1d98
+[*] RtlAllocateHeap(54)		= 0x4e1de8
+[*] RtlFreeHeap(0x4e1de8)
+[*] RtlAllocateHeap(58)		= 0x4df8e8
+[*] RtlAllocateHeap(128)		= 0x20512b0
+[*] RtlAllocateHeap(32)		= 0x4e1328
+[*] RtlAllocateHeap(32)		= 0x4e1350
+[*] RtlAllocateHeap(32)		= 0x4e1378
+[*] RtlAllocateHeap(32)		= 0x4e13a0
+[*] RtlAllocateHeap(32)		= 0x4e13c8
+[*] RtlAllocateHeap(32)		= 0x4e13f0
+[*] RtlAllocateHeap(128)		= 0x2051448
+[*] RtlAllocateHeap(32)		= 0x4e2220
+[*] RtlAllocateHeap(32)		= 0x4e2248
+[*] RtlAllocateHeap(88)		= 0x4e2b60
+[*] RtlAllocateHeap(208)		= 0x4e2bc0
+[*] RtlAllocateHeap(32)		= 0x4e2270
+[*] RtlAllocateHeap(32)		= 0x4e2298
+[*] RtlAllocateHeap(128)		= 0x20514d0
+[*] RtlAllocateHeap(68)		= 0x4da720
+[*] RtlAllocateHeap(1)		= 0x4e2c98
+[*] RtlAllocateHeap(16)		= 0x4dd1e8
+[*] RtlAllocateHeap(29)		= 0x4e24c8
+[*] RtlAllocateHeap(172)		= 0x4eab98
+[*] RtlFreeHeap(0x4eab98)
+[*] RtlAllocateHeap(16)		= 0x4e3538
+[*] RtlAllocateHeap(532)		= 0x31b10c8
+[*] RtlAllocateHeap(128)		= 0x31bc390
+[*] RtlAllocateHeap(32)		= 0x4ea4f0
+[*] RtlAllocateHeap(32)		= 0x4ea518
+[*] RtlAllocateHeap(32)		= 0x4ea540
+[*] RtlAllocateHeap(32)		= 0x4ea568
+[*] RtlAllocateHeap(32)		= 0x4ea590
+[*] RtlAllocateHeap(32)		= 0x4ea5b8
+[*] RtlAllocateHeap(32)		= 0x4ea5e0
+[*] RtlAllocateHeap(32)		= 0x4ea608
+[*] RtlAllocateHeap(532)		= 0x31bc7b8
+[*] RtlAllocateHeap(520)		= 0x4f7550
+[*] Memory at address 0x4eab98 has been freed more than once (Double Free).
+[*] Freeing unallocated memory at address 0x4e4408.
+[*] Freeing unallocated memory at address 0x4fe8b8.
+[*] RtlFreeHeap(0x4ea608)
+[*] Freeing unallocated memory at address 0x4ea6f8.
+[*] RtlFreeHeap(0x4de4c8)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4eab98)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4eab98)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4eab98)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4eab98)
+[*] RtlFreeHeap(0x20514d0)
+[*] RtlAllocateHeap(512)		= 0x4ded38
+[*] RtlFreeHeap(0x4ded38)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4ded38)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4ded38)
+[*] RtlAllocateHeap(512)[*] RtlFreeHeap(0x4ded38)
+[*] Freeing unallocated memory at address 0x4e2a28.
+[*] Freeing unallocated memory at address 0x4e21f8.
+[*] Freeing unallocated memory at address 0x4e21d0.
+[*] Freeing unallocated memory at address 0x4e21a8.
+[*] Freeing unallocated memory at address 0x4e2940.
+[*] Freeing unallocated memory at address 0x4e2008.
+[*] Freeing unallocated memory at address 0x4e1f20.
+[*] Memory at address 0x4e1de8 has been freed more than once (Double Free).
+[*] Freeing unallocated memory at address 0x2051338.
+[*] RtlFreeHeap(0x4e13a0)
+[*] RtlFreeHeap(0x4e13c8)
+[*] RtlFreeHeap(0x4e13f0)
+[*] Freeing unallocated memory at address 0x4e10d0.
+[*] Freeing unallocated memory at address 0x4e10a8.
+[*] Freeing unallocated memory at address 0x4e1080.
+[*] Freeing unallocated memory at address 0x4e1058.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x0.
+[*] Freeing unallocated memory at address 0x4e0fe0.
+[*] Freeing unallocated memory at address 0x4e1008.
+[*] Freeing unallocated memory at address 0x4e1030.
+[*] Freeing unallocated memory at address 0x4e17a0.
+[*] Freeing unallocated memory at address 0x4e0fb8.
+[*] Freeing unallocated memory at address 0x4de7c0.
+[*] Freeing unallocated memory at address 0x4e0bf8.
+[*] Freeing unallocated memory at address 0x4e0d30.
+[*] Freeing unallocated memory at address 0x4e0e68.
+[*] Freeing unallocated memory at address 0x4e1888.
+[*] Freeing unallocated memory at address 0x4e1120.
+[*] Freeing unallocated memory at address 0x4e1148.
+[*] Freeing unallocated memory at address 0x4e1170.
+[*] RtlFreeHeap(0x4de1a8)
+[*] RtlFreeHeap(0x4dd068)
+[*] RtlFreeHeap(0x4d9188)
+[*] RtlFreeHeap(0x4d9160)
+[*] RtlFreeHeap(0x4d91b0)
+[*] RtlFreeHeap(0x4d9138)
+[*] RtlFreeHeap(0x2050e78)
+[*] Freeing unallocated memory at address 0x2051fe8.
+[*] Memory at address 0x3a allocated but not freed
+[*] Memory at address 0x4d9098 allocated but not freed
+[*] Memory at address 0x4d90c0 allocated but not freed
+[*] Memory at address 0x4d90e8 allocated but not freed
+[*] Memory at address 0x4d9110 allocated but not freed
+[*] Memory at address 0x4d91d8 allocated but not freed
+[*] Memory at address 0x4d9200 allocated but not freed
+[*] Memory at address 0x4d9228 allocated but not freed
+[*] Memory at address 0x4d9250 allocated but not freed
+[*] Memory at address 0x4d9278 allocated but not freed
+[*] Memory at address 0x4da720 allocated but not freed
+[*] Memory at address 0x4dcb18 allocated but not freed
+[*] Memory at address 0x4dd1e8 allocated but not freed
+[*] Memory at address 0x4dd240 allocated but not freed
+[*] Memory at address 0x4dd648 allocated but not freed
+[*] Memory at address 0x4dd6d0 allocated but not freed
+[*] Memory at address 0x4de000 allocated but not freed
+[*] Memory at address 0x4de018 allocated but not freed
+[*] Memory at address 0x4de040 allocated but not freed
+[*] Memory at address 0x4de068 allocated but not freed
+[*] Memory at address 0x4de090 allocated but not freed
+[*] Memory at address 0x4de0b8 allocated but not freed
+[*] Memory at address 0x4de0e0 allocated but not freed
+[*] Memory at address 0x4de108 allocated but not freed
+[*] Memory at address 0x4de130 allocated but not freed
+[*] Memory at address 0x4de158 allocated but not freed
+[*] Memory at address 0x4de180 allocated but not freed
+[*] Memory at address 0x4df8e8 allocated but not freed
+[*] Memory at address 0x4e11c0 allocated but not freed
+[*] Memory at address 0x4e11e8 allocated but not freed
+[*] Memory at address 0x4e1210 allocated but not freed
+[*] Memory at address 0x4e1238 allocated but not freed
+[*] Memory at address 0x4e1260 allocated but not freed
+[*] Memory at address 0x4e1288 allocated but not freed
+[*] Memory at address 0x4e12b0 allocated but not freed
+[*] Memory at address 0x4e12d8 allocated but not freed
+[*] Memory at address 0x4e1328 allocated but not freed
+[*] Memory at address 0x4e1350 allocated but not freed
+[*] Memory at address 0x4e1378 allocated but not freed
+[*] Memory at address 0x4e1970 allocated but not freed
+[*] Memory at address 0x4e19d0 allocated but not freed
+[*] Memory at address 0x4e1aa8 allocated but not freed
+[*] Memory at address 0x4e1ac8 allocated but not freed
+[*] Memory at address 0x4e1ae8 allocated but not freed
+[*] Memory at address 0x4e1b08 allocated but not freed
+[*] Memory at address 0x4e1bc8 allocated but not freed
+[*] Memory at address 0x4e1c18 allocated but not freed
+[*] Memory at address 0x4e1cd8 allocated but not freed
+[*] Memory at address 0x4e1d28 allocated but not freed
+[*] Memory at address 0x4e1d98 allocated but not freed
+[*] Memory at address 0x4e2220 allocated but not freed
+[*] Memory at address 0x4e2248 allocated but not freed
+[*] Memory at address 0x4e2270 allocated but not freed
+[*] Memory at address 0x4e2298 allocated but not freed
+[*] Memory at address 0x4e24c8 allocated but not freed
+[*] Memory at address 0x4e2b60 allocated but not freed
+[*] Memory at address 0x4e2bc0 allocated but not freed
+[*] Memory at address 0x4e2c98 allocated but not freed
+[*] Memory at address 0x4e3538 allocated but not freed
+[*] Memory at address 0x4ea4f0 allocated but not freed
+[*] Memory at address 0x4ea518 allocated but not freed
+[*] Memory at address 0x4ea540 allocated but not freed
+[*] Memory at address 0x4ea568 allocated but not freed
+[*] Memory at address 0x4ea590 allocated but not freed
+[*] Memory at address 0x4ea5b8 allocated but not freed
+[*] Memory at address 0x4ea5e0 allocated but not freed
+[*] Memory at address 0x4f7550 allocated but not freed
+[*] Memory at address 0x2050590 allocated but not freed
+[*] Memory at address 0x20507d0 allocated but not freed
+[*] Memory at address 0x20509f0 allocated but not freed
+[*] Memory at address 0x2051120 allocated but not freed
+[*] Memory at address 0x20512b0 allocated but not freed
+[*] Memory at address 0x2051448 allocated but not freed
+[*] Memory at address 0x31b10c8 allocated but not freed
+[*] Memory at address 0x31bc390 allocated but not freed
+[*] Memory at address 0x31bc7b8 allocated but not freed
+[*] Memory at address 0xc0150008 allocated but not freed
